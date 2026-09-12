@@ -47,7 +47,7 @@ ul {
   list-style-type: none;
 }
 
-/* SOLUTION */
+/* SOLUTION
 
 .header {
   display: flex;
@@ -66,4 +66,4 @@ ul {
   display: flex;
   align-items: center;
   gap: 16px;
-}
+} */
