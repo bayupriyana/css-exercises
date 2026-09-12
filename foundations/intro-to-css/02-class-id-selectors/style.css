@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd {
+  background-color: #f4588c;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#scnd {
+  color: #051fa1;
+  font-size: 36px;
+
+}
+
+#thrd {
+  font-size: 24px;
+}
+
+#frth {
+  background-color: #73ff73;
+  font-size: 24px;
+  font-weight: bold;
+}

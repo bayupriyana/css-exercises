@@ -17,3 +17,22 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+
+/* solusi dari saya, note: saat keluar dari 
+hover animasi tidak smooth */
+
+/* button:hover {
+  transition: all .3s ease-in-out;
+  transform: scale(1.2);
+} */
+
+/*solusi dari TOn, smooth saat hover maupun lepas  */
+
+button {
+  transition: transform .3s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.2)
+}
